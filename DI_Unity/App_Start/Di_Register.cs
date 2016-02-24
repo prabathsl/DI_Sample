@@ -17,7 +17,10 @@ namespace DI_Unity.App_Start
         {
             IUnityContainer container = new UnityContainer();
             RegisterDependancy(container);
+<<<<<<< HEAD
 
+=======
+>>>>>>> bdaf81554470d970c83ba8625d5fda03a61c6bd7
             DependencyResolver.SetResolver(new UserResolver(container));
         }
 

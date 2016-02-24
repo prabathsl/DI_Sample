@@ -5,8 +5,11 @@ VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DI_Unity", "DI_Unity\DI_Unity.csproj", "{9F253713-C9FD-429D-B965-64EA2CDFDC25}"
 EndProject
+<<<<<<< HEAD
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DI_Castle", "DI_Castle\DI_Castle.csproj", "{1DAF2C24-8AAA-4231-B55B-1A7DADACB555}"
 EndProject
+=======
+>>>>>>> bdaf81554470d970c83ba8625d5fda03a61c6bd7
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,10 +20,13 @@ Global
 		{9F253713-C9FD-429D-B965-64EA2CDFDC25}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9F253713-C9FD-429D-B965-64EA2CDFDC25}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9F253713-C9FD-429D-B965-64EA2CDFDC25}.Release|Any CPU.Build.0 = Release|Any CPU
+<<<<<<< HEAD
 		{1DAF2C24-8AAA-4231-B55B-1A7DADACB555}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{1DAF2C24-8AAA-4231-B55B-1A7DADACB555}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1DAF2C24-8AAA-4231-B55B-1A7DADACB555}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1DAF2C24-8AAA-4231-B55B-1A7DADACB555}.Release|Any CPU.Build.0 = Release|Any CPU
+=======
+>>>>>>> bdaf81554470d970c83ba8625d5fda03a61c6bd7
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
