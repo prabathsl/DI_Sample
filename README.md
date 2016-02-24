@@ -1,7 +1,5 @@
 # Dependancy  Injection Sample 
 
-In Last post I gave you introduction for dependency  Injection.
-
 Here we gonna Use it in real code
 First I create MVC project and Add following classes to it.
 
